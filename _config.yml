@@ -1,0 +1,8 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+lang: "pl"
+title: "Projektowanie Stron Internetowych Warszawa" # the name of your site, e.g. ACME Corp.
+description: Jako freelancer SEO, tworzenie prostych i czystych stron internetowych jest również częścią mojej pracy. Moje usługi w metropolii Warszawie obejmują tworzenie stron internetowych i tworzenie stron głównych
+
+sidebar_text_1: Witam z Warszawy. Mam na imię Lukasz i jestem SEO Marketerem. Jako freelancer dla Warszawy zajmuję się nowoczesną optymalizacją pod kątem wyszukiwarek internetowych, w tym optymalizacją on-page i off-page. Zajmuję się lokalnym SEO, programowaniem Twojej strony, projektowaniem interfejsu użytkownika, a także poprawą doświadczenia użytkownika.
+

@@ -1,0 +1,12 @@
+---
+layout: default
+title: Projektowanie Stron Internetowych Warszawa
+---
+
+## Projektowanie Stron z Warszawy
+
+<p class="italic">Jako Projektowanie Stron Internetowych Warszawa, tworzenie prostych i czystych stron internetowych jest również częścią mojej pracy. Moje usługi w metropolii Warszawy obejmują tworzenie stron internetowych i tworzenie stron głównych.</p> 
+
+Zaczynając od interfejsu użytkownika, uważam, że każda strona internetowa powinna skupiać się przede wszystkim na użyteczności. Użyteczność powinna być jak najprostsza, inaczej nie ma znaczenia, jak piękna jest strona. Bez zadowolonych odwiedzających, bardzo trudno będzie Ci osiągnąć współczynnik konwersji i cele.
+
+Nowoczesne projektowanie stron internetowych pomaga więc w osiąganiu celów. Już choćby z tego powodu nie należy stawiać żadnych przeszkód na drodze użytkownika. Czy to subskrypcja newslettera, prosta informacja, czy ekscytujący artykuł na blogu - wszystko powinno być dostępne za pomocą kilku kliknięć. Wszystkie elementy wizualne muszą ze sobą współgrać. Sama typografia, na przykład, może przyczynić się do tego, czy projekt odniesie sukces, czy nie. Wybierając właściwą czcionkę, właściwy rozmiar czcionki i właściwe elementy wizualne, można nadać każdej stronie głównej osobowość.
