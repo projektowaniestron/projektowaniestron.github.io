@@ -1,6 +1,5 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-lang: "pl"
 title: "Projektowanie Stron Internetowych Warszawa" # the name of your site, e.g. ACME Corp.
 description: Jako freelancer SEO, tworzenie prostych i czystych stron internetowych jest również częścią mojej pracy. Moje usługi w metropolii Warszawie obejmują tworzenie stron internetowych i tworzenie stron głównych
 
