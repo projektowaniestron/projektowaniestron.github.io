@@ -9,7 +9,7 @@ permalink: kontakt
 Tutaj znajdziecie Państwo moje dane kontaktowe. Każde zapytanie jest oczywiście niewiążące i bezpłatne. Skontaktuję się z Państwem w możliwie najkrótszym czasie.
 
 
-<form action="https://formspree.io/f/xgepqgne" method="POST">
+<form action="https://formspree.io/f/mjvpdylz" method="POST">
   <label>Name:</label>
   <input type="name" name="name" required>
   <label>Email:</label>
